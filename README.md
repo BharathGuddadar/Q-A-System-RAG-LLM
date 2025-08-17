@@ -91,8 +91,3 @@ When combined with **RAG**, LLMs:
 ## 👨‍💻 Author
 
 Developed by **Bharath G P**
-💡 Focused on **AI, Machine Learning, and Research Tools**
-
----
-
-Would you like me to also add a **diagram** (architecture flow: User → Query → Retriever → LLM → Answer) into the README for better clarity? That would make it more professional for GitHub.
